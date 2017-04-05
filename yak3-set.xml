@@ -13,6 +13,21 @@ October 2006,  Detlef Faber
 
   <description>Yakovlev Yak-3</description>
   <author>Detlef Faber</author>
+
+  <tags>
+    <tag>yakovlev</tag>
+    <tag>low-wing</tag>
+    <tag>tail-dragger</tag>
+    <tag>retractable-gear</tag>
+    <tag>castering</tag>
+    <tag>single-engine</tag>
+    <tag>piston</tag>
+    <tag>supercharger</tag>
+    <tag>fighter</tag>
+    <tag>ww2</tag>
+    <tag>1940s</tag>
+    <tag>1950s</tag>
+  </tags>
   
   <flight-model>yasim</flight-model>
   <aero>yak3-yasim</aero>
